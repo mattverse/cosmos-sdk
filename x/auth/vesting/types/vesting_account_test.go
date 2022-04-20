@@ -1,7 +1,6 @@
 package types_test
 
 import (
-	"fmt"
 	"testing"
 	"time"
 
@@ -1173,9 +1172,6 @@ func TestClawback(t *testing.T) {
 			// check destination account delegated amount
 			del, found = app.StakingKeeper.GetDelegation(ctx, dest, valAddr)
 			if found {
-				fmt.Println(del)
-				fmt.Println(val.GetDelegatorShares())
-
 				stakeAmt := val.TokensFromSharesTruncated(shares).RoundInt()
 				require.Equal(t, tc.destAccDelegatedAmt, stakeAmt)
 			}
