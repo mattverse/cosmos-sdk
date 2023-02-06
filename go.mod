@@ -8,7 +8,7 @@ require (
 	cosmossdk.io/core v0.5.0
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	cosmossdk.io/errors v1.0.0-beta.7
-	cosmossdk.io/math v1.0.0-beta.4
+	cosmossdk.io/math v1.0.0-beta.6
 	cosmossdk.io/store v0.1.0
 	cosmossdk.io/x/tx v0.1.0
 	github.com/99designs/keyring v1.2.1
