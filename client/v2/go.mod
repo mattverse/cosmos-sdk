@@ -7,7 +7,7 @@ require (
 	cosmossdk.io/core v0.5.0
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	github.com/cockroachdb/errors v1.9.1
-	github.com/cosmos/cosmos-proto v1.0.0-beta.1
+	github.com/cosmos/cosmos-proto v1.0.0-beta.2
 	github.com/cosmos/cosmos-sdk v0.47.0-rc1
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/pflag v1.0.5
