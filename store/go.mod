@@ -6,7 +6,7 @@ require (
 	cosmossdk.io/errors v1.0.0-beta.7
 	github.com/armon/go-metrics v0.4.1
 	github.com/confio/ics23/go v0.9.0
-	github.com/cosmos/cosmos-db v0.0.0-20230119180254-161cf3632b7c
+	github.com/cosmos/cosmos-db v1.0.0-rc.1
 	github.com/cosmos/gogoproto v1.4.3
 	github.com/cosmos/iavl v0.20.0-alpha1
 	github.com/golang/mock v1.6.0
@@ -46,7 +46,7 @@ require (
 	github.com/klauspost/compress v1.15.12 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
-	github.com/linxGnu/grocksdb v1.7.10 // indirect
+	github.com/linxGnu/grocksdb v1.7.14 // indirect
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
