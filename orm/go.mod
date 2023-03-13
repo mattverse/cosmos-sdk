@@ -6,12 +6,12 @@ require (
 	cosmossdk.io/api v0.2.6
 	cosmossdk.io/errors v1.0.0-beta.7
 	github.com/cosmos/cosmos-db v0.0.0-20221224071843-97e1443c3226
-	github.com/cosmos/cosmos-proto v1.0.0-beta.1
+	github.com/cosmos/cosmos-proto v1.0.0-beta.3
 	github.com/golang/mock v1.6.0
 	github.com/google/go-cmp v0.5.9
 	github.com/iancoleman/strcase v0.2.0
 	github.com/regen-network/gocuke v0.6.2
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 	golang.org/x/exp v0.0.0-20221019170559-20944726eadf
 	google.golang.org/grpc v1.52.3
 	google.golang.org/protobuf v1.28.1
