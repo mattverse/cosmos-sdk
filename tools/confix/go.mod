@@ -6,7 +6,7 @@ require (
 	github.com/cosmos/cosmos-sdk v0.47.0-rc1
 	github.com/creachadair/atomicfile v0.2.7
 	github.com/creachadair/tomledit v0.0.24
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.15.0
 	golang.org/x/exp v0.0.0-20221019170559-20944726eadf
 	gotest.tools/v3 v3.4.0
@@ -79,7 +79,7 @@ require (
 	github.com/hdevalence/ed25519consensus v0.0.0-20220222234857-c00d1f31bab3 // indirect
 	github.com/huandu/skiplist v1.2.0 // indirect
 	github.com/improbable-eng/grpc-web v0.15.0 // indirect
-	github.com/inconshreveable/mousetrap v1.0.1 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jmhodges/levigo v1.0.0 // indirect
 	github.com/klauspost/compress v1.15.12 // indirect
 	github.com/lib/pq v1.10.7 // indirect
