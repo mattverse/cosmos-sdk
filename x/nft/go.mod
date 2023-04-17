@@ -13,7 +13,7 @@ require (
 	github.com/cosmos/cosmos-sdk v0.46.0-beta2.0.20230109172818-c9acb1bd72b3
 	github.com/cosmos/gogoproto v1.4.3
 	github.com/golang/mock v1.6.0
-	github.com/golang/protobuf v1.5.2
+	github.com/golang/protobuf v1.5.3
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.1
