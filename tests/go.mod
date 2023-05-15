@@ -13,21 +13,21 @@ require (
 	cosmossdk.io/x/evidence v0.1.0
 	cosmossdk.io/x/feegrant v0.0.0-20230117113717-50e7c4a4ceff
 	cosmossdk.io/x/nft v0.0.0-20230113085233-fae3332d62fc
-	cosmossdk.io/x/tx v0.5.5
+	cosmossdk.io/x/tx v0.7.0
 	cosmossdk.io/x/upgrade v0.0.0-20230127052425-54c8e1568335
 	github.com/cometbft/cometbft v0.37.1-0.20230411132551-3a91d155e664
 	github.com/cosmos/cosmos-db v1.0.0-rc.1
 	github.com/cosmos/cosmos-proto v1.0.0-beta.3
 	// this version is not used as it is always replaced by the latest Cosmos SDK version
 	github.com/cosmos/cosmos-sdk v0.48.0
-	github.com/cosmos/gogoproto v1.4.8
+	github.com/cosmos/gogoproto v1.4.9
 	github.com/golang/mock v1.6.0
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.8.2
 	google.golang.org/protobuf v1.30.0
 	gotest.tools/v3 v3.4.0
-	pgregory.net/rapid v0.5.5
+	pgregory.net/rapid v0.5.7
 )
 
 require (
@@ -87,7 +87,7 @@ require (
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
-	github.com/golang/glog v1.0.0 // indirect
+	github.com/golang/glog v1.1.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -172,14 +172,14 @@ require (
 	golang.org/x/net v0.9.0 // indirect
 	golang.org/x/oauth2 v0.6.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/sys v0.8.0 // indirect
 	golang.org/x/term v0.7.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/api v0.114.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
-	google.golang.org/grpc v1.54.0 // indirect
+	google.golang.org/grpc v1.55.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
