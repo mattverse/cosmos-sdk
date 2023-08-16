@@ -5,7 +5,7 @@ go 1.20
 require (
 	cosmossdk.io/api v0.5.0
 	cosmossdk.io/core v0.9.0
-	cosmossdk.io/depinject v1.0.0-alpha.3
+	cosmossdk.io/depinject v1.0.0-alpha.4
 	github.com/cockroachdb/errors v1.10.0
 	github.com/cosmos/cosmos-proto v1.0.0-beta.3
 	github.com/cosmos/cosmos-sdk v0.46.0-beta2.0.20230630082137-cba58097ef9a
