@@ -5,7 +5,7 @@ module github.com/cosmos/cosmos-sdk
 require (
 	cosmossdk.io/api v0.5.0
 	cosmossdk.io/collections v0.3.0
-	cosmossdk.io/core v0.9.0
+	cosmossdk.io/core v1.0.0
 	cosmossdk.io/depinject v1.0.0-alpha.3
 	cosmossdk.io/errors v1.0.0
 	cosmossdk.io/log v1.1.1-0.20230704160919-88f2c830b0ca
@@ -66,6 +66,7 @@ require (
 )
 
 require (
+	cosmossdk.io/schema v1.0.0 // indirect
 	filippo.io/edwards25519 v1.0.0 // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
 	github.com/DataDog/zstd v1.5.5 // indirect
